@@ -1,0 +1,45 @@
+{
+    "guid":"zeus","repository":
+    {
+        "type":"git","branch":"master","url":"https://github.com/dirigiblelabs/zeus.git"
+    }
+    ,
+    "dependencies": [
+        {
+            "guid":"zeus_cockpit",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_cockpit.git",
+            "branch":"master"
+    	},
+    	{
+            "guid":"zeus_ideas",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_ideas.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_solutions",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_solutions.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_projects",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_projects.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_code",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_code.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_issues",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_issues.git",
+            "branch":"master"
+   	    }
+    ]
+}
