@@ -46,6 +46,12 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_landscapes.git",
             "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_sources",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_sources.git",
+            "branch":"master"
    	    }
     ]
 }
