@@ -1,6 +1,5 @@
 {
-    "guid":"zeus","repository":
-    {
+    "guid":"zeus","repository": {
         "type":"git","branch":"master","url":"https://github.com/dirigiblelabs/zeus.git"
     }
     ,
@@ -39,6 +38,18 @@
             "guid":"zeus_issues",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_issues.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_sources",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_sources.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_landscapes",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_landscapes.git",
             "branch":"master"
    	    }
     ]
