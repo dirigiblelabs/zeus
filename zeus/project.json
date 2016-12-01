@@ -40,6 +40,12 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_issues.git",
             "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_landscapes",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_landscapes.git",
+            "branch":"master"
    	    }
     ]
 }
