@@ -1,5 +1,4 @@
-# zeus
-Cloud Management Suite
+# Zeus - The Cloud Management Suite
 
 Zeus Cloud Management Suite Project aims at covering fully the design, development and operations processes 
 releated to the brand new Cloud Applications.
