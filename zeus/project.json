@@ -58,9 +58,18 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_templates.git",
             "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_clusters",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_clusters.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_deployer",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_deployer.git",
+            "branch":"master"
    	    }
-   	    
-   	    
-   	    
     ]
 }
