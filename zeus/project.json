@@ -70,6 +70,12 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_deployer.git",
             "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_iam",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_iam.git",
+            "branch":"master"
    	    }
     ]
 }
