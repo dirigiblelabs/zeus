@@ -76,6 +76,12 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_iam.git",
             "branch":"master"
+   	    },
+    	{
+            "guid":"zeus_documents",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_documents.git",
+            "branch":"master"
    	    }
     ]
 }
