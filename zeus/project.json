@@ -88,6 +88,18 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_models.git",
             "branch":"master"
+   	    },
+    	{
+            "guid":"docs_explorer",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/docs_explorer.git",
+            "branch":"master"
+   	    },
+    	{
+            "guid":"bizon",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/bizon.git",
+            "branch":"master"
    	    }
     ]
 }
