@@ -100,6 +100,24 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/bizon.git",
             "branch":"master"
+   	    },
+   	    {
+            "guid":"databases",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_databases.git",
+            "branch":"master"
+   	    },
+   	    {
+            "guid":"services",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_services.git",
+            "branch":"master"
+   	    },
+   	    {
+            "guid":"sites",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_sites.git",
+            "branch":"master"
    	    }
     ]
 }
