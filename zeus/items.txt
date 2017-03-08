@@ -1,0 +1,27 @@
+Define
+	Ideas			101
+	Solutions		102
+	Projects			103
+Develop
+	Code			201
+	Models			202
+	Sources			203
+	Issues			204
+	Tasks			205
+Discover
+	Documents		301
+	Databases		302
+	Services			303
+	Sites			304
+Operate
+	Clusters			401
+	Containers		402
+	Templates		403
+	Deployments		404
+Security
+	Users			501
+	Roles			502
+	Assignments		503
+	Profile			504
+Monitor
+	

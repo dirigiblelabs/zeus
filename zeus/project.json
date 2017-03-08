@@ -118,6 +118,12 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_sites.git",
             "branch":"master"
+   	    },
+   	    {
+            "guid":"tasks",
+            "type": "git",
+            "url": "https://github.com/dirigiblelabs/zeus_tasks.git",
+            "branch":"master"
    	    }
     ]
 }
