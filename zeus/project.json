@@ -10,116 +10,116 @@
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_cockpit.git",
             "branch":"master"
-    	},
-    	{
+        },
+        {
             "guid":"zeus_ideas",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_ideas.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_solutions",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_solutions.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_projects",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_projects.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_code",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_code.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_issues",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_issues.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_landscapes",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_landscapes.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_sources",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_sources.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_templates",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_templates.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_clusters",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_clusters.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_deployer",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_deployer.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_iam",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_iam.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_documents",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_documents.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"zeus_models",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_models.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"docs_explorer",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/docs_explorer.git",
             "branch":"master"
-   	    },
-    	{
+        },
+        {
             "guid":"bizon",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/bizon.git",
             "branch":"master"
-   	    },
-   	    {
+        },
+        {
             "guid":"databases",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_databases.git",
             "branch":"master"
-   	    },
-   	    {
+        },
+        {
             "guid":"services",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_services.git",
             "branch":"master"
-   	    },
-   	    {
+        },
+        {
             "guid":"sites",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_sites.git",
             "branch":"master"
-   	    },
-   	    {
+        },
+        {
             "guid":"tasks",
             "type": "git",
             "url": "https://github.com/dirigiblelabs/zeus_tasks.git",
