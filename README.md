@@ -13,3 +13,6 @@ give the freedom to plug-in external already available tools to enrich and custo
 # Setup
 
 Take a look at the available ways for automated deployment of the Zeus Cloud Management Suite [here](https://github.com/dirigiblelabs/zeus_setup).
+
+# Examples
+- [Eclipse Dirigible](https://github.com/dirigiblelabs/zeus/blob/master/zeus/WikiContent/examples/dirigible.md)
