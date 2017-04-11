@@ -7,7 +7,10 @@ Zeus offers the entire set of features for the modern Cloud Providers. On the ot
 give the freedom to plug-in external already available tools to enrich and customize the Zeus suite.
 
 ### List of supported buildpacks:
+- [All in One](https://github.com/dirigiblelabs/zeus) - *in the buildpack are included all Zeus related projects.*
 - [Cloud Management](https://github.com/dirigiblelabs/zeus_cloud_management_pack) - *in the buildpack are included low level API calls to Kubernetes, Docker sets definitions and overall Cloud Application management capabilities.*
+
+
 
 # Setup
 
