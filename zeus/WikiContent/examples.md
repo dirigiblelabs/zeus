@@ -1,4 +1,12 @@
 # Eclipse Dirigible
+
+In the following example is shown how to create an _**Eclipse Dirigible**_ template in the Zeus Cloud Management Suite.
+
+## Prerequisites
+- Up and running Kubernetes cluster
+- Installed Zeus
+- Configured default cluster in the Zeus
+
 ## Containers
 
 Add the _**Eclipse Dirigible**_ container to the list of available containers.
