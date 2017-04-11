@@ -20,7 +20,7 @@ Add the _**Eclipse Dirigible**_ container to the list of available containers.
 
 ### Templates:
 
-Add _**Eclipse Dirigible**_ template ot the list of available deployment templates.
+Add _**Eclipse Dirigible**_ template to the list of available deployment templates.
 
 | Name      | Description      |
 |-----------|------------------|
