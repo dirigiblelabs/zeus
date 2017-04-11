@@ -8,3 +8,7 @@ give the freedom to plug-in external already available tools to enrich and custo
 
 ### List of supported buildpacks:
 - [Cloud Management](https://github.com/dirigiblelabs/zeus_cloud_management_pack) - *in the buildpack are included low level API calls to Kubernetes, Docker sets definitions and overall Cloud Application management capabilities.*
+
+# Setup
+
+Take a look at the available ways for automated deployment of the Zeus Cloud Management Suite [here](https://github.com/dirigiblelabs/zeus_setup).
