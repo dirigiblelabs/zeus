@@ -1,16 +1,16 @@
 # PHP Redis Frontend Template
 
-| Name     | Description      |
-|----------|------------------|
-| frontend | PHP Frontend     |
+| Name     | Description            |
+|----------|------------------------|
+| frontend | PHP Redis Frontend     |
 
 ### Template -> Deployments:
 
 Create _**frontend**_ deployment template.
 
-| Name     | Description             | Replicas |
-|----------|-------------------------|----------|
-| frontend | PHP Frontend Deployment | 3        |
+| Name     | Description                   | Replicas |
+|----------|-------------------------------|----------|
+| frontend | PHP Redis Frontend Deployment | 3        |
 
 ### Template -> Containers:
 
