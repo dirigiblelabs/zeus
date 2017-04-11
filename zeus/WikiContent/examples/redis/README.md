@@ -18,84 +18,11 @@ In the following example is shown how to create an _**Redis - Guestbook**_ templ
 
 ### Templates:
 
-1. Add _**Redis Master**_ template ot the list of available deployment templates.
+1. Add _**Redis Master**_ template - see [definition](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/master/template).
 
-| Name         | Description      |
-|--------------|------------------|
-| redis-master | Redis Master     |
+2. Add _**Redis Slave**_ template - see [definition](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/slave/template).
 
-### Template -> Deployments:
-
-Create _**Master**_ deployment template.
-
-| Name   | Description             | Replicas |
-|--------|-------------------------|----------|
-| master | Redis Master Deployment | 1        |
-
-### Template -> Containers:
-
-Assign the _**redis-master**_ container, from the list of available containers.
-
-### Template -> Services:
-
-Create a _**master**_ service, that will allow access the _**redis-master**_ container.
-
-| Name   | Description  | Type      | Port |
-|--------|--------------|-----------|------|
-| master | -            | ClusterIP | 6379 |
-
-
-2. Add _**Redis Slave**_ template ot the list of available deployment templates.
-
-| Name        | Description      |
-|-------------|------------------|
-| redis-slave | Redis Slave      |
-
-### Template -> Deployments:
-
-Create _**Slave**_ deployment template.
-
-| Name  | Description            | Replicas |
-|-------|------------------------|----------|
-| slave | Redis Slave Deployment | 2        |
-
-### Template -> Containers:
-
-Assign the _**redis-slave**_ container, from the list of available containers.
-
-### Template -> Services:
-
-Create a _**slave**_ service, that will allow access the _**redis-slave**_ container.
-
-| Name  | Description  | Type      | Port |
-|-------|--------------|-----------|------|
-| slave | -            | ClusterIP | 6379 |
-
-3. Add _**Frontend**_ template ot the list of available deployment templates.
-
-| Name     | Description      |
-|----------|------------------|
-| frontend | PHP Frontend     |
-
-### Template -> Deployments:
-
-Create _**frontend**_ deployment template.
-
-| Name     | Description             | Replicas |
-|----------|-------------------------|----------|
-| frontend | PHP Frontend Deployment | 3        |
-
-### Template -> Containers:
-
-Assign the _**php-redis**_ container, from the list of available containers.
-
-### Template -> Services:
-
-Create a _**slave**_ service, that will allow access the _**redis-slave**_ container.
-
-| Name | Description  | Type      | Port |
-|------|--------------|-----------|------|
-| http | -            | ClusterIP | 80   |
+3. Add _**Frontend**_ template - see [definition](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/php/template).
 
 ## Deployment
 1. From the _**Deployments**_ tab, start the _**redis-master**_ deployment template as _**master**_
