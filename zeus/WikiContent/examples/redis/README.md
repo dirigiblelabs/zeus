@@ -10,25 +10,11 @@ In the following example is shown how to create an _**Redis - Guestbook**_ templ
 ## Template Definition
 ### Containers:
 
-1. Add _**Redis Master**_ container.
+1. Add _**Redis Master**_ container - see container [template](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/master/container).
 
-| Name         | Description            | Image                              | Protocol | Port |
-|--------------|------------------------|------------------------------------|----------|------|
-| redis-master | Redis Master Container | gcr.io/google_containers/redis:e2e | TCP      | 6379 |
+2. Add _**Redis Slave**_ container - see container [template](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/slave/container).
 
-
-2. Add _**Redis Slave**_ container.
-
-| Name         | Description          | Image                                  | Protocol | Port |
-|--------------|----------------------|----------------------------------------|----------|------|
-| redis-slave | Redis Slave Container | gcr.io/google_samples/gb-redisslave:v1 | TCP      | 6379 |
-
-
-3. Add _**PHP Redis**_ container.
-
-| Name      | Description         | Image                                | Protocol | Port |
-|-----------|---------------------|--------------------------------------|----------|------|
-| php-redis | PHP Redis Container | gcr.io/google-samples/gb-frontend:v4 | TCP      | 80   |
+3. Add _**PHP Redis**_ container - see container [template](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/php/container).
 
 ### Templates:
 
