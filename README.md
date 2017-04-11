@@ -16,4 +16,4 @@ Take a look at the available ways for automated deployment of the Zeus Cloud Man
 
 # Getting Started
 
-Follow the _**Getting Started**_ guide [here](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples)
+Follow the _**Getting Started**_ guide [here](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples).
