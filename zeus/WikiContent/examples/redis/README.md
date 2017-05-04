@@ -25,8 +25,8 @@ In the following example is shown how to create an _**Redis - Guestbook**_ templ
 3. Add _**Frontend**_ template - see [definition](https://github.com/dirigiblelabs/zeus/tree/master/zeus/WikiContent/examples/redis/php/template).
 
 ## Deployment
-1. From the _**Deployments**_ tab, start the _**redis-master**_ deployment template as _**master**_
-2. From the _**Deployments**_ tab, start the _**redis-slave**_ deployment template as _**slave**_
+1. From the _**Deployments**_ tab, start the _**redis-master**_ deployment template as _**redis**_
+2. From the _**Deployments**_ tab, start the _**redis-slave**_ deployment template as _**redis**_
 3. From the _**Deployments**_ tab, start the _**frontend**_ deployment template as _**frontend**_
 4. Create _**Ingress**_ for the _**frontend**_ application
 
