@@ -1,3 +1,8 @@
+
+### !!! Deprecated !!!
+
+New version is here - [https://github.com/dirigiblelabs/zeus-v3-package](https://github.com/dirigiblelabs/zeus-v3-package)
+
 # Zeus - The Cloud Management Suite
 
 Zeus Cloud Management Suite Project aims at covering fully the design, development and operations processes 
